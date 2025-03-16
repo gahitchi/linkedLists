@@ -1,0 +1,7 @@
+C:\Users\gahia\Desktop\linked lists\bin\Debug\linked lists.exe.config
+C:\Users\gahia\Desktop\linked lists\bin\Debug\linked lists.exe
+C:\Users\gahia\Desktop\linked lists\bin\Debug\linked lists.pdb
+C:\Users\gahia\Desktop\linked lists\obj\Debug\linked lists.csproj.AssemblyReference.cache
+C:\Users\gahia\Desktop\linked lists\obj\Debug\linked lists.csproj.CoreCompileInputs.cache
+C:\Users\gahia\Desktop\linked lists\obj\Debug\linked lists.exe
+C:\Users\gahia\Desktop\linked lists\obj\Debug\linked lists.pdb
